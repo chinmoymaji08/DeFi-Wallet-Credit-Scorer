@@ -52,10 +52,6 @@ You should select the three largest files from the provided Google Drive folder 
 - The model is built from scratch without predefined schemas.
 - The scoring logic is entirely derived from raw behavior, ensuring uniqueness and interpretability.
 
-## License
-
-This project is licensed under the MIT License.
-
 ---
 
 Built for the Zeru Finance Wallet Scoring Challenge
